@@ -1,0 +1,14 @@
+/Users/mathieudebavelaere/Documents/Udemy_C#_.NET/Jeux_des_maths/Jeux_des_maths/bin/Debug/net8.0/Jeux_des_maths
+/Users/mathieudebavelaere/Documents/Udemy_C#_.NET/Jeux_des_maths/Jeux_des_maths/bin/Debug/net8.0/Jeux_des_maths.deps.json
+/Users/mathieudebavelaere/Documents/Udemy_C#_.NET/Jeux_des_maths/Jeux_des_maths/bin/Debug/net8.0/Jeux_des_maths.runtimeconfig.json
+/Users/mathieudebavelaere/Documents/Udemy_C#_.NET/Jeux_des_maths/Jeux_des_maths/bin/Debug/net8.0/Jeux_des_maths.dll
+/Users/mathieudebavelaere/Documents/Udemy_C#_.NET/Jeux_des_maths/Jeux_des_maths/bin/Debug/net8.0/Jeux_des_maths.pdb
+/Users/mathieudebavelaere/Documents/Udemy_C#_.NET/Jeux_des_maths/Jeux_des_maths/obj/Debug/net8.0/Jeux_des_maths.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mathieudebavelaere/Documents/Udemy_C#_.NET/Jeux_des_maths/Jeux_des_maths/obj/Debug/net8.0/Jeux_des_maths.AssemblyInfoInputs.cache
+/Users/mathieudebavelaere/Documents/Udemy_C#_.NET/Jeux_des_maths/Jeux_des_maths/obj/Debug/net8.0/Jeux_des_maths.AssemblyInfo.cs
+/Users/mathieudebavelaere/Documents/Udemy_C#_.NET/Jeux_des_maths/Jeux_des_maths/obj/Debug/net8.0/Jeux_des_maths.csproj.CoreCompileInputs.cache
+/Users/mathieudebavelaere/Documents/Udemy_C#_.NET/Jeux_des_maths/Jeux_des_maths/obj/Debug/net8.0/Jeux_des_maths.dll
+/Users/mathieudebavelaere/Documents/Udemy_C#_.NET/Jeux_des_maths/Jeux_des_maths/obj/Debug/net8.0/refint/Jeux_des_maths.dll
+/Users/mathieudebavelaere/Documents/Udemy_C#_.NET/Jeux_des_maths/Jeux_des_maths/obj/Debug/net8.0/Jeux_des_maths.pdb
+/Users/mathieudebavelaere/Documents/Udemy_C#_.NET/Jeux_des_maths/Jeux_des_maths/obj/Debug/net8.0/Jeux_des_maths.genruntimeconfig.cache
+/Users/mathieudebavelaere/Documents/Udemy_C#_.NET/Jeux_des_maths/Jeux_des_maths/obj/Debug/net8.0/ref/Jeux_des_maths.dll
